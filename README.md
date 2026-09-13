@@ -44,13 +44,13 @@ QA Teams evaluate            Google Forms                 Google Sheets
 ### 🔢 What are our KPIs ? 
 | KPI | Description |
 |--------|-------|
-| Calls Evaluated | Did the agent open the call professionally and make a good first impression? |
-| Greetings & Intro Avg | Did the agent ask the right questions to understand the customer's needs? |
-| Relevant Probing Avg | Did the agent know the product well enough to answer customer questions confidently? |
-| Product Knowledge Avg | Did the agent stay calm, polite and professional throughout the call? |
-| Professional Tone Avg | Did the agent handle customer concerns effectively and keep the conversation moving? |
-| Objection Handling Avg | Did the agent close the call properly with clear next steps? |
-| Closing Protocols Avg | Total score out of 100 combining all criteria above. |
+| **Calls Evaluated** | Did the agent open the call professionally and make a good first impression? |
+| **Greetings & Intro** | Did the agent ask the right questions to understand the customer's needs? |
+| **Relevant Probing** | Did the agent know the product well enough to answer customer questions confidently? |
+| **Product Knowledge** | Did the agent stay calm, polite and professional throughout the call? |
+| **Professional Tone** | Did the agent handle customer concerns effectively and keep the conversation moving? |
+| **Objection Handling** | Did the agent close the call properly with clear next steps? |
+| **Closing Protocols** | Total score out of 100 combining all criteria above. |
 
 ### 📈 Average Score by Evaluation Date
 - Line chart tracking all 7 KPI scores over time
