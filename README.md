@@ -1,6 +1,6 @@
 # 📞 QA Sales Dashboard
 
-> **Call quality analytics dashboard built on Google Sheets — evaluating sales agent performance across 7 key KPIs**
+> **Call quality analytics dashboard built on Google Sheets, evaluating sales agent performance across 7 key KPIs**
 
 ---
 
@@ -118,16 +118,10 @@ QA Teams evaluate            Google Forms                 Google Sheets
 
 ## 💡 Key Insights Delivered
 
-- **Relevant Probing (78.5%)** is the weakest KPI — flagged for targeted agent training
+- **Relevant Probing (78.5%)** is the weakest KPI, flagged for targeted agent training
 - **Professional Tone (94.9%)** is consistently the strongest area across all agents
-- Top 5 agents maintain **92–95%** scores — used as benchmarks for team coaching
+- Top 5 agents maintain **92–95%** scores, used as benchmarks for team coaching
 - Day-wise trend analysis helps QA managers spot evaluation consistency issues
-
----
-
-## 🖥️ Other Dashboards
-
-> 📞 **All other dashboards are available on request. Feel free to reach out to schedule a call or Google Meet.**
 
 ---
 
