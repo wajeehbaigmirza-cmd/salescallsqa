@@ -113,8 +113,7 @@ calls live               auto-populate              collection &
 
 ## 📸 Dashboard Preview
 
-![QA Sales Dashboard](./QA Sales Dashboard.png)
-
+![QA Sales Dashboard](./QA%20Sales%20Dashboard.png)
 ---
 
 ## 💡 Key Insights Delivered
