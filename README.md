@@ -78,29 +78,6 @@ QA Teams evaluate            Google Forms                 Google Sheets
 
 ---
 
-## 🗂️ Data Source — Google Form Fields
-
-| Column | Description |
-|--------|-------------|
-| Timestamp | Auto-generated submission time |
-| Agent Name | Sales agent being evaluated |
-| Evaluator Name | QA team member conducting evaluation |
-| Call Date | Date of the evaluated call |
-| Call Type | Type/category of sales call |
-| Decision-Maker Presence | Whether decision maker was on call |
-| Call Recording Link | Link to recorded call |
-| Greetings & Intro Score | Score out of 15 |
-| Relevant Probing Score | Score out of 25 |
-| Product Knowledge Score | Score out of 15 |
-| Soft Skills & Professional Tone | Score |
-| Objection Handling Score | Score out of 15 |
-| Closing Protocols Score | Score out of 15 |
-| Critical Failures Observed | Yes/No flag |
-| TOTAL SCORE | Score out of 100 |
-| Evaluation Date | Date of QA evaluation |
-
----
-
 ## 🔧 Tools & Technologies
 
 | Tool | Purpose |
