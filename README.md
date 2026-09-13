@@ -41,16 +41,16 @@ QA Teams evaluate            Google Forms                 Google Sheets
 
 ## 📊 Dashboard Sections
 
-### 🔢 KPI Summary (Top Row)
-| Metric | Score |
+### 🔢 What are our KPIs ? 
+| KPI | Description |
 |--------|-------|
-| Calls Evaluated | 1,907 |
-| Greetings & Intro Avg | 89.6% |
-| Relevant Probing Avg | 78.5% |
-| Product Knowledge Avg | 84.5% |
-| Professional Tone Avg | 94.9% |
-| Objection Handling Avg | 82.2% |
-| Closing Protocols Avg | 90.2% |
+| Calls Evaluated | Did the agent open the call professionally and make a good first impression? |
+| Greetings & Intro Avg | Did the agent ask the right questions to understand the customer's needs? |
+| Relevant Probing Avg | Did the agent know the product well enough to answer customer questions confidently? |
+| Product Knowledge Avg | Did the agent stay calm, polite and professional throughout the call? |
+| Professional Tone Avg | Did the agent handle customer concerns effectively and keep the conversation moving? |
+| Objection Handling Avg | Did the agent close the call properly with clear next steps? |
+| Closing Protocols Avg | Total score out of 100 combining all criteria above. |
 
 ### 📈 Average Score by Evaluation Date
 - Line chart tracking all 7 KPI scores over time
