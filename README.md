@@ -113,7 +113,7 @@ calls live               auto-populate              collection &
 
 ## 📸 Dashboard Preview
 
-![QA Sales Dashboard](./dashboard_preview.png)
+![QA Sales Dashboard](./QA Sales Dashboard.png)
 
 ---
 
