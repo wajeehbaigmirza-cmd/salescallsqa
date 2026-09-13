@@ -23,12 +23,12 @@ The sales team needed a way to:
 ## 🔄 How Data Flows
 
 ```
-📋 QA Team               📥 Data Collection        📊 Visualization
-─────────────            ──────────────────        ────────────────
-QA Evaluators            Google Form  ──────────►  Google Sheets
-evaluate sales    ──►    (Form responses            (Automated data
-calls live               auto-populate              collection &
-                         Google Sheet)              dashboard)
+ 📋 QA Team               📥 Data Collection           📊 Visualization
+─────────────────         ────────────────────         ───────────────────
+QA Teams evaluate            Google Forms                 Google Sheets
+  sales calls     ────►   (Form responses auto   ────►   (Data collection
+                          populate Google Sheet)           and Dashboard)
+                                         
 ```
 
 **Process:**
@@ -140,4 +140,4 @@ This dashboard was built for a real sales organization. Agent names shown are an
 ## 👤 Author
 
 **Mirza Wajeeh Baig** — Data Analyst
-[![GitHub](https://img.shields.io/badge/GitHub-mirzawajeehbaig-181717?style=flat&logo=github)](https://github.com/mirzawajeehbaig)
+[![GitHub](https://img.shields.io/badge/GitHub-mirzawajeehbaig-181717?style=flat&logo=github)](https://github.com/wajeehbaigmirza-cmd)
